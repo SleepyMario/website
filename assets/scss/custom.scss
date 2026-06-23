@@ -1,3 +1,23 @@
-/*
-    You can add your own custom styles here.
-*/
+.sleepymario-footer-logo {
+    text-align: center;
+    margin: 1.5rem 0 1rem;
+}
+
+.sleepymario-footer-logo img {
+    display: inline-block;
+    max-width: 180px;
+    height: auto;
+}
+
+.post-side-image {
+    float: right;
+    width: 160px;
+    max-width: 35%;
+    margin: 0 0 1rem 1.25rem;
+    border-radius: 12px;
+}
+
+.article-list article .article-image img {
+    object-fit: cover;
+    max-height: 180px;
+}
