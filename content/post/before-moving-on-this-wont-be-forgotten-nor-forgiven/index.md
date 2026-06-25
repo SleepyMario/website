@@ -3,6 +3,8 @@ title: "Before Moving On, This Won't Be Forgotten Nor Forgiven"
 date: 2026-06-24T03:02:46Z
 slug: "before-moving-on-this-wont-be-forgotten-nor-forgiven"
 image: cover.png
+categories:
+  - life
 ---
 
 All right! The second day of my new and shiny blog. A lot and a lot of things got done. This trash AI thing of yours isn't too bad at some things at least. Much better than all of you freaks together, I can tell you that, sadly enough.

@@ -2,9 +2,8 @@
 title: "First Post"
 date: 2026-06-23
 slug: first-post
+image: cover.jpg
 ---
-
-<img src="cover.jpg" alt="Number 1" class="post-side-image">
 
 Hi everyone! My millions and millions of dedicated followers lol.
 
