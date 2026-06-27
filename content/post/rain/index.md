@@ -3,7 +3,7 @@ title: "Rain"
 date: 2026-06-27T03:06:00+02:00
 draft: false
 slug: "rain"
-image: angry_in_the_rain.png
+image: cover.png
 categories:
   - "Life"
 tags:
