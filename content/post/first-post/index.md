@@ -7,7 +7,7 @@ image: cover.jpg
 
 Hi everyone! My millions and millions of dedicated followers lol.
 
-I have overhauled my blog. It's just the same but a bit different. The former one is available at [Previous Blog](https://archive.sleepymario.com/). It's just time for something new, that's all.
+I have overhauled my blog. It's just the same but a bit different. The former one is available at [Archived Material](https://archive.sleepymario.com/). It's just time for something new, that's all.
 
 The content will largely be the same, really, but different.
 

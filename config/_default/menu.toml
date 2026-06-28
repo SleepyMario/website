@@ -5,5 +5,10 @@
 
 [[main]]
     identifier = "previous-blog"
-    name = "Previous Blog"
+    name = "Archived Material"
     url = "https://archive.sleepymario.com/"
+
+[[main]]
+    identifier = "live-analytics"
+    name = "Live Analytics"
+    url = "https://analytics.sleepymario.com/"
