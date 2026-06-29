@@ -51,7 +51,15 @@ SortBy              = "default"
 
 ## Comments
 [comments]
-    enabled  = false 
+    enabled  = true
+    provider = "remark42"
+
+    [comments.remark42]
+host = "https://sleepymario.com/comments"
+site = "sleepymario"
+locale = "en"
+max_shown_comments = 999
+show_email_subscription = true
 
     # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml
     # Copy the configurations you need from there and paste it here.
