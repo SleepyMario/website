@@ -34,10 +34,10 @@ SortBy              = "default"
 [widgets]
     homepage = [
         { type = "search" },
+	{ type = "visitor-counter" },
         { type = "archives", params = { limit = 0 } },
         { type = "categories", params = { limit = 999 } },
         { type = "tag-cloud", params = { limit = 999 } },
-    	{ type = "visitor-counter" },
     ]
     page = [{ type = "toc" }]
 
