@@ -1,0 +1,29 @@
+<div class="visitor-counter" id="visitor-counter" hidden>
+    Page views since June 29, 2026:
+    <span id="visitor-count">0</span>
+</div>
+
+<script>
+(() => {
+    const container = document.getElementById("visitor-counter");
+    const output = document.getElementById("visitor-count");
+
+    fetch("/api/visitor-count", {
+        cache: "no-store",
+        credentials: "same-origin"
+    })
+        .then(response => {
+            if (!response.ok) {
+                throw new Error("Counter request failed");
+            }
+            return response.json();
+        })
+        .then(data => {
+            output.textContent = Number(data.count).toLocaleString();
+            container.hidden = false;
+        })
+        .catch(() => {
+            container.hidden = true;
+        });
+})();
+</script>
