@@ -13,7 +13,7 @@ Let's just presume that people listened to the oral version of this yesterday.
 
 So it went on and on and on. You'd have to be either a narcissist, severely autistic, or otherwise completely detached from reality to think that torture, drugging people, hiring professional rapists, and involving every other kind of freak imaginable was somehow going to help your cause.
 
-Of course they knew this. To them it was different. They believed they had finally found everything they were looking for, and they had to keep doing what they had been doing for almost a decade and a half.
+Of course they knew this. To them it was different. They believed they had finally found everything they were looking for, and they had to keep doing what they had been doing for almost a decade and a half for another decade and a half, but then even more of it.
 
 Which reminds me: I need to send my passport back because it broke for the second time. They're trying very hard to stop me from doing that.
 
