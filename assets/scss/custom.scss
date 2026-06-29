@@ -13,3 +13,8 @@
     object-fit: cover;
     max-height: 180px;
 }
+
+/* Show the complete cover image inside individual posts */
+.article-page .main-article .article-header .article-image img {
+    max-height: unset;
+}
