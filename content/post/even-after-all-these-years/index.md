@@ -9,7 +9,8 @@ description: "One picture might tell more than you will ever be able to understa
 image: "cover.png"
 
 categories:
- - 
+ - Life
+ - Language
 tags:
  - 
 
