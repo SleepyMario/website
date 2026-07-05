@@ -18,3 +18,18 @@
 .article-page .main-article .article-header .article-image img {
     max-height: unset;
 }
+
+blockquote {
+    font-size: calc(1em + 4px);
+    font-style: italic;
+}
+
+blockquote p {
+    font-size: inherit;
+    font-style: inherit;
+}
+
+blockquote code,
+blockquote pre {
+    font-style: normal;
+}
