@@ -9,9 +9,13 @@ description: "This Thing Will Smack Some Whack Into Your Brains"
 image: "cover.png"
 
 categories:
- - 
+ - Projects
+ - Tech
+ - Language
 tags:
- - 
+ - whacksmacker
+ - language learning
+ - software development
 
 draft: false
 comments: true
