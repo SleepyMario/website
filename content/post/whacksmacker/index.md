@@ -4,7 +4,7 @@ date: 2026-07-13T11:45:00+08:00
 lastmod: 2026-07-13T11:45:00+08:00
 
 slug: "whacksmacker"
-description: "The Thing That Will Smack Some Whack Into Your Brains"
+description: "This Thing Will Smack Some Whack Into Your Brains"
 
 image: "cover.png"
 
