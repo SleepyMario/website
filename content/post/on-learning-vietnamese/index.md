@@ -11,7 +11,7 @@ image: "cover.png"
 categories:
  - Life
  - Vietnamese
-
+ - Language
 tags:
  - Vietnamese
  - language learning
