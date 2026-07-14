@@ -9,7 +9,8 @@ description: "Actions Have Consequences"
 image: "cover.png"
 
 categories:
- - Personal Commentary
+ - Life
+ - Taiwan
 tags:
  - narcissism
  - social manipulation
