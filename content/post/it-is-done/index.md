@@ -9,9 +9,20 @@ description: "Time to redo standardized education."
 image: "cover.png"
 
 categories:
- - 
+  - WhackSmacker
+  - Education
+
 tags:
- - 
+  - project milestone
+  - education reform
+  - curriculum design
+  - language learning
+  - educational technology
+  - alternative education
+  - open source
+  - GPL-3.0
+  - AI-assisted development
+  - standardized education
 
 draft: false
 comments: true
