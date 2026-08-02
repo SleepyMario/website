@@ -21,7 +21,7 @@ draft: false
 comments: true
 ---
 
-A little blog post. Today I'm going to take a full day off. Next week is doing to be a busy, sweaty and messy one. I thought that would have happened around 14 months ago, or actually over 10 years ago and beyond basically, but yeah. There obviously can't be anything wrong with the diagnosis of a bunch of freaks. 
+A little blog post. Today I'm going to take a full day off. Next week is doing to be a busy, sweaty and messy one. I thought that would have happened around 16 months ago, or actually over 10 years ago and beyond basically, but yeah. There obviously can't be anything wrong with the diagnosis of a bunch of freaks. 
 
 Which brings us to a little Murrican hobby I actually wrote about a few days ago but then lost the post. I accidentally stumbled upon two instances of some favourite hobbies of theirs, namely doing all kinds of socially superior stuff. Thirteen years ago I wrote down pretty clearly that the place is a social third world country, so then why on earth do you take their wisdom so literal, right, and take it for granted on top of it. 
 
