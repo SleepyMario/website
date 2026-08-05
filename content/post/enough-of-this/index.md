@@ -13,10 +13,8 @@ categories:
 
 tags:
   - Personal
-  - Frustration
   - Social Control
   - Narcissism
-  - Satire
 
 draft: false
 comments: true
