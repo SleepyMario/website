@@ -21,3 +21,47 @@ url = "https://github.com/SleepyMario"
 [social.params]
 icon = "brand-github"
 newTab = true
+
+[[social]]
+identifier = "youtube"
+name = "YouTube"
+url = "https://www.youtube.com/@sleepymario9657"
+
+[social.params]
+icon = "brand-youtube"
+newTab = true
+
+[[social]]
+identifier = "twitch"
+name = "Twitch"
+url = "https://www.twitch.tv/sleepymario"
+
+[social.params]
+icon = "brand-twitch"
+newTab = true
+
+[[social]]
+identifier = "kick"
+name = "Kick"
+url = "https://kick.com/sleepymario"
+
+[social.params]
+icon = "brand-kick"
+newTab = true
+
+[[social]]
+identifier = "facebook"
+name = "Facebook"
+url = "https://www.facebook.com/sleepymario.onfacebook/"
+
+[social.params]
+icon = "brand-facebook"
+newTab = true
+
+[[social]]
+identifier = "email"
+name = "Email"
+url = "mailto:letmesleep@sleepymario.com"
+
+[social.params]
+icon = "mail"
