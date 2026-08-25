@@ -30,4 +30,4 @@ But I shouldn't complain nor get overly excited with my beautiful 2042 rating xD
        style="max-width: 100%; height: auto;">
 </p>
 
-
+(The thing obviously forgot about 16. ... Bc6)
