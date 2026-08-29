@@ -63,7 +63,6 @@ YYYY-MM-DD-HH-MM-mkw.mkv
 ```
 
 2026-08-29-08-57-mkw.mkv
-```
 
 `mkw` means `Mario Kart World`. Do not automatically apply the M.K.W. pattern
 to language, IRL, sport, mathematics, lesson, or other recordings. Derive those
@@ -142,7 +141,18 @@ Include:
 - the approximate duration;
 - anything Ashwin asked to include;
 - notable technical or gameplay events when relevant;
-- the YouTube video or playlist link once available.
+- the YouTube video embedded with Hugo's built-in `youtube` shortcode once
+  available;
+- a link to the appropriate YouTube playlist.
+
+Use the YouTube video ID, not the complete URL:
+
+```text
+{{< youtube VIDEO_ID >}}
+```
+
+Keep the playlist as an ordinary Markdown link below or near the player. A
+plain video link is only a fallback for a video that cannot be embedded.
 
 Do not invent Ashwin's opinions, reactions, or gameplay details.
 
@@ -166,7 +176,8 @@ Before publication:
 4. Review the final diff.
 5. Commit only the intended paths with a descriptive commit message.
 6. Push and deploy using the site's canonical update workflow.
-7. Verify that the public post, YouTube video, and playlist links work.
+7. Verify that the public post renders the playable YouTube embed and that the
+   video and playlist work.
 
 Do not claim completion while a large upload, YouTube processing, checksum,
 website deployment, or public verification is still pending.
