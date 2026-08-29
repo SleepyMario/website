@@ -5,13 +5,76 @@
 
     <h2 class="widget-title section-title">Live on Twitch</h2>
 
-    <div class="twitch-stream__player">
-        <iframe
-            src="https://player.twitch.tv/?channel=sleepymario&amp;parent=sleepymario.com&amp;parent=www.sleepymario.com&amp;muted=true"
-            title="SleepyMario live on Twitch"
-            loading="lazy"
-            allow="autoplay; fullscreen"
-            allowfullscreen>
-        </iframe>
+    <div class="twitch-stream__stage" data-twitch-channel="sleepymario">
+        <a class="twitch-stream__offline" href="https://www.twitch.tv/sleepymario" target="_blank" rel="noopener">
+            <span class="twitch-stream__status-dot" aria-hidden="true"></span>
+            <span>
+                <strong>SleepyMario is offline</strong>
+                <small>Visit the Twitch channel</small>
+            </span>
+        </a>
+
+        <div class="twitch-stream__player" id="sleepymario-twitch-player" aria-label="SleepyMario live on Twitch"></div>
     </div>
 </section>
+
+<script src="https://player.twitch.tv/js/embed/v1.js"></script>
+<script>
+(() => {
+    const stage = document.querySelector(".twitch-stream__stage");
+
+    if (!stage || stage.dataset.initialized === "true") {
+        return;
+    }
+
+    stage.dataset.initialized = "true";
+
+    const offline = stage.querySelector(".twitch-stream__offline");
+    const playerElement = stage.querySelector(".twitch-stream__player");
+    let statusKnown = false;
+
+    const showLive = () => {
+        statusKnown = true;
+        stage.classList.add("is-live");
+        offline.setAttribute("aria-hidden", "true");
+        playerElement.removeAttribute("aria-hidden");
+    };
+
+    const showOffline = () => {
+        statusKnown = true;
+        stage.classList.remove("is-live");
+        offline.removeAttribute("aria-hidden");
+        playerElement.setAttribute("aria-hidden", "true");
+    };
+
+    const initialize = () => {
+        if (!window.Twitch || !window.Twitch.Player) {
+            window.setTimeout(initialize, 100);
+            return;
+        }
+
+        const player = new Twitch.Player(playerElement.id, {
+            channel: stage.dataset.twitchChannel,
+            width: "100%",
+            height: "100%",
+            parent: ["sleepymario.com", "www.sleepymario.com"],
+            autoplay: true,
+            muted: true
+        });
+
+        player.addEventListener(Twitch.Player.ONLINE, showLive);
+        player.addEventListener(Twitch.Player.OFFLINE, showOffline);
+        player.addEventListener(Twitch.Player.READY, () => {
+            player.setMuted(true);
+        });
+
+        window.setTimeout(() => {
+            if (!statusKnown) {
+                showOffline();
+            }
+        }, 5000);
+    };
+
+    initialize();
+})();
+</script>
