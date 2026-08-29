@@ -33,6 +33,7 @@ SortBy              = "default"
 
 [widgets]
     homepage = [
+        { type = "twitch" },
         { type = "search" },
 	{ type = "visitor-counter" },
         { type = "archives", params = { limit = 0 } },
