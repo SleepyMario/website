@@ -18,6 +18,16 @@ the post.
 Do not publish the post until his answer has either been incorporated or he has
 said that he has nothing to add.
 
+### Writing before the archive and upload finish
+
+Ashwin may ask for the blog post to be written first while the recording is
+still local. That is fine: create the post, its cover, and the factual stream
+summary after validating the local recording. Do not add a made-up YouTube
+embed, claim that the archive is complete, or publish the post as though those
+later steps had succeeded. Return to the same post after the checksum-verified
+NFS export and YouTube upload, then add the real video shortcode and playlist
+link before publication.
+
 ## 2. Validate the local recording
 
 Inspect the completed recording in `~/Streams` and record at least:

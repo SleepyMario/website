@@ -1,7 +1,7 @@
 ---
 title: "Mario Kart World for an Hour or So"
 date: 2026-08-29T10:25:00+08:00
-lastmod: 2026-08-29T14:45:00+08:00
+lastmod: 2026-08-30T15:30:00+08:00
 
 slug: "mario-kart-world-for-an-hour-or-so"
 description: "A casual Mario Kart World session, recorded in 1080p at 60 frames per second."
@@ -29,7 +29,7 @@ The stream worked, the recording survived, and *Mario Kart World* now has its ow
 
 You can watch today’s session here:
 
-{{< youtube C9xTPGMMrQk >}}
+{{< youtube k2PdsAC5lYA >}}
 
 The new [Mario Kart World playlist](https://www.youtube.com/playlist?list=PLQp0jPce09CE) contains this and future sessions.
 
