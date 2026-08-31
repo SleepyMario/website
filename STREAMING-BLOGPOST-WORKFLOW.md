@@ -20,8 +20,10 @@ work. In an ordinary gaming, IRL, sport, or language-stream post, mention a
 technical detail only when it directly affected what viewers saw or heard, and
 explain it in words a non-technical reader can follow. Avoid repeated facts,
 detached follow-up sentences, inflated transitions, and unnecessarily formal
-phrasing. When Ashwin supplies clearer wording, preserve its natural rhythm
-rather than rewriting it into a more technical style.
+phrasing. Use your own natural conversational wording rather than trying to
+imitate Ashwin's phrasing. Treat Ashwin's corrections as guidance about
+clarity, readability, and tone, then apply that guidance in a voice that
+remains your own.
 
 ## Capture-card stream monitoring
 
