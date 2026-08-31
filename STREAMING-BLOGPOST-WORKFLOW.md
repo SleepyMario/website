@@ -8,6 +8,15 @@ the approximate duration and outcome, include Ashwin's optional comment, link
 the published video and playlist, and note that the recording was saved. Add
 more only when something genuinely notable happened.
 
+## Capture-card stream monitoring
+
+Whenever a capture-card stream is running, include the Slacktop NVIDIA GPU in
+the live health checks. Run `nvidia-smi` during the stream and record or compare
+GPU utilization, VRAM use, temperature, power/performance state, and the active
+GPU processes. Check it alongside OBS rendering lag and dropped frames,
+network packet loss, and VPS load so that local rendering pressure is not
+mistaken for a relay or upload problem.
+
 ## 1. Ask Ashwin for a comment
 
 Before writing the final post, briefly ask Ashwin whether he has anything he
