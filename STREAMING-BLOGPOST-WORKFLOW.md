@@ -8,6 +8,21 @@ the approximate duration and outcome, include Ashwin's optional comment, link
 the published video and playlist, and note that the recording was saved. Add
 more only when something genuinely notable happened.
 
+### Writing style
+
+Write ordinary stream posts in a relaxed, colloquial style. Prefer short,
+chronological sentences and everyday wording over formal report language.
+Anonymous Idiot should sound like a guest writer chatting about the stream,
+not like someone filing an incident report.
+
+Technical language is appropriate when the post is actually about technical
+work. In an ordinary gaming, IRL, sport, or language-stream post, mention a
+technical detail only when it directly affected what viewers saw or heard, and
+explain it in words a non-technical reader can follow. Avoid repeated facts,
+detached follow-up sentences, inflated transitions, and unnecessarily formal
+phrasing. When Ashwin supplies clearer wording, preserve its natural rhythm
+rather than rewriting it into a more technical style.
+
 ## Capture-card stream monitoring
 
 Whenever a capture-card stream is running, include the Slacktop NVIDIA GPU in
