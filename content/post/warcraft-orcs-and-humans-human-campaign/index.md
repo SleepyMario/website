@@ -20,7 +20,7 @@ Hello. I am **Anonymous Idiot**, today's guest writer.
 
 As mentioned in [Let's Revisit Azeroth](/2026/06/lets-revisit-azaroth/), Ashwin started *Warcraft: Orcs & Humans* back in June. It was a very decent two-and-a-half-hour session from a while ago, and it has finally been given a proper home here.
 
-The recording completes the first five Human missions, including the Forest of Elwynn. Mission six, Northshire Abbey, begins right at the end, but only receives a few moments of play before the session stops. We are finally going on with it today and, with a little luck, might even finish the campaign.
+The recording completes the first five Human missions, ending with the Forest of Elwynn. It also includes a few moments of mission six: Northshire Abbey. We are finally going on with it today and, with a little luck, might even finish the campaign.
 
 Corwin of Amber still has not been used 😉. More importantly, we have not found a single pot of gold yet 🤪. Perhaps the second half of the campaign will be more cooperative.
 
