@@ -54,6 +54,37 @@ later steps had succeeded. Return to the same post after the checksum-verified
 NFS export and YouTube upload, then add the real video shortcode and playlist
 link before publication.
 
+### Start the slow job first
+
+This is primarily a workaround for the current slow upstream connection. While
+large uploads still take roughly an hour or more, scheduling the upload first is
+important. Once the upstream connection has improved enough that these uploads
+finish quickly, this special priority is no longer important and the workflow
+may use whichever sensible order is most convenient.
+
+After the local master has been validated and its intended title and destination
+are known, start the YouTube upload as early as possible. The upload is normally
+the only long-running part of the current workflow. While the connection remains
+slow, do not leave it until after writing the post, generating the cover, checking
+the NFS copy, or preparing the website.
+
+While the upload is running, complete the NFS archive and checksum comparison,
+write the post, generate its cover, run the local Hugo build, review the result,
+and prepare everything that does not depend on the final YouTube video ID. Once
+the upload and processing are confirmed, add the real embed and playlist link,
+perform the final build, and publish.
+
+For an overnight or otherwise unattended upload, set the post's front matter to:
+
+```yaml
+draft: true
+```
+
+Leave it as a draft until the YouTube upload has completed, the resulting video
+and playlist entry have been verified, and the real video ID has been inserted.
+Only then change `draft` to `false`, commit, push, deploy, and verify the public
+post. Starting an upload is not sufficient evidence to publish the post.
+
 ## 2. Validate the local recording
 
 Inspect the completed recording in `~/Streams` and record at least:
