@@ -46,3 +46,8 @@ me back and started torturing me. Because that is what you did.
 You can't lie everything together, torture everything together, and then
 cry about something that didn't exist either. You can't have it all. That is
 not how this works. It is the kind of thing we teach elementary school kids.
+
+Weren't you the one who were going to teach me great life lessons? No it's my
+turn kiddos, and trust me:
+
+I have not forgotten.
