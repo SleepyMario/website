@@ -14,7 +14,7 @@ tags:
   - Social Manipulation
   - Satire
 
-draft: true
+draft: false
 comments: true
 ---
 
