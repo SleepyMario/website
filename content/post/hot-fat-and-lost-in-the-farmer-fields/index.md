@@ -50,7 +50,7 @@ been preserved on the fileserver as
 
 You can watch the complete ride here:
 
-{{< youtube 8O9wXPUcOhw >}}
+{{< youtube KQ2BMMpkhPs >}}
 
 The [Sports playlist](https://www.youtube.com/playlist?list=PLNpHjjkEBB_sigD1PuzRbpwC0DzTTECnl)
 contains this and the earlier sport streams.
