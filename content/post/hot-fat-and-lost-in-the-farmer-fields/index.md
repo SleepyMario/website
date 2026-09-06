@@ -31,7 +31,7 @@ exactly a masterclass in efficient navigation. It went from 大潭 through 歸�
 and 關廟, wandered around lost in the farmer fields for a while, continued to
 沙崙, and eventually made it back to 大潭.
 
-I had lunch with a friend for about an hour and 40 minutes when the ride was
+He had lunch with a friend for about an hour and 40 minutes when the ride was
 some 40 minutes in, which is why the actual times may seem a little off.
 
 Sports Tracker recorded **35.93 km** in **4:20:09**, at an average speed of
