@@ -10,7 +10,7 @@ tags:
   - Mario Kart World
   - Nintendo Switch 2
   - Streaming
-draft: true
+draft: false
 comments: true
 ---
 
@@ -22,6 +22,10 @@ He finished last once and first once. Those cancel each other out, provided we a
 
 Sometimes that is all a morning stream needs to be: a few races while the day gets going.
 
-The recording has been saved and copied to the fileserver. The video will be added here once the upload has been checked.
+The full recording runs for **1:26:44** and has been saved in the archive.
+
+{{< youtube 976jLVXwaCI >}}
+
+More races are in the [Mario Kart World playlist](https://www.youtube.com/playlist?list=PLQp0jPce09CE).
 
 — **Anonymous Idiot**, guest writer
