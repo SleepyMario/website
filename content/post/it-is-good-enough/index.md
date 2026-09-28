@@ -41,4 +41,8 @@ I consider the topic closed for the foreseeable future.
 
 But we will return to this. 
 
-Someday. 
+Someday.
+
+---
+
+Normally I don't write like this. Apart from the usual rants on conventional bullshit obviously, but that's different. But in this case I think you deserved it. You crossed the line a bit (aka. "way") too much here. 
