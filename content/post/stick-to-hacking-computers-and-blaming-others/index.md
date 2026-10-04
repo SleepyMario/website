@@ -53,7 +53,7 @@ Anyway, you get the full text and a link below:
 link: https://udn.com/news/story/7321/9469326
 
 
-台南研考會前主蒙志成涉貪判刑2年 認罪繳回犯罪所得獲緩刑
+## 台南研考會前主蒙志成涉貪判刑2年 認罪繳回犯罪所得獲緩刑
 2026-04-28 14:39 聯合報／ 記者
 邵心杰
 ／台南即時報導
