@@ -31,7 +31,7 @@ I have already said everything. If I was seriously censored by the freaks then h
 
 Which means something like 'admitted guilt and returned the stolen money in exchange for a suspended sentence'.
 
-Technically it's a bit over 60.000NTD (around 2000USD) that was embezzled actually. He returned 150K. 50K of it had to be donated to some cause or so whatever. Anyway, his basic salary around 20 years ago must have been 60K anyway, and that's before anything else. You get the point. 
+Technically it's a bit over 60.000NTD (around 2000USD) that was embezzled actually. He returned 150K. 50K of it had to be donated to some cause or so whatever. Anyway, his basic salary around 20 years ago must have been 60K a month anyway, and that's before anything else. You get the point. 
 
 The person in question had lofty stories around 15 years ago about someone (God knows who) having to 'have to earn money first'. They were only talking about 'what the big secret was', and 'that they wanted to know the big magic trick'. They even hired people from lofty places such as Hong Kong for that enormous job. Hey, he was talking to my enormously intelligent (they went straight to the best university on the island (lol) from here) classmates, who truly were looking forward to this load of crap. I'm still watching the great plans of these enormous (literally, that's what they are obsessed with) geniuses. 
 
