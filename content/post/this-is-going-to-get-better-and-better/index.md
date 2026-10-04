@@ -45,7 +45,7 @@ It was told to them very clearly in 50 million different ways, already over a de
 
 Then maybe you are mentally disabled. 
 
-I don't think 15K in a fake news report to absolutely nowhere is going to cut it kiddos. You managed to do a little bit worse than that. 
+I don't think 150K in a fake news report to absolutely nowhere is going to cut it kiddos. You managed to do a little bit worse than that. 
 
 Good Luck. 
 
