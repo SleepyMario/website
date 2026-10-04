@@ -1,7 +1,7 @@
 ---
 title: "This is going to get better and better"
-date: 2026-07-02T12:00:00+08:00
-lastmod: 2026-07-02T12:00:00+08:00
+date: 2026-10-04T11:00:00+08:00
+lastmod: 2026-10-04T11:00:00+08:00
 
 slug: "this-is-going-to-get-better-and-better"
 description: "Chilling Among Friends"
@@ -20,7 +20,6 @@ tags:
   - censorship
   - institutional abuse
   - personal history
-  - closure
 
 draft: false
 comments: true
