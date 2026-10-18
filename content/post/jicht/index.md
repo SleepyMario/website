@@ -9,9 +9,15 @@ description: "Which is Dutch for 'gout'"
 image: "cover.png"
 
 categories:
- - 
+  - Health
+  - Life
+  - Taiwan
+
 tags:
- - 
+  - Personal
+  - Gout
+  - Weight Loss
+  - Alcohol
 
 draft: false
 comments: true
