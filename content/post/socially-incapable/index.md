@@ -6,7 +6,7 @@ lastmod: 2026-10-19T06:00:00+08:00
 slug: "socially-incapable"
 description: "Observing Human Depravity For Free"
 
-image: "cover.png"
+image: "logo.png"
 
 categories:
   - Life
