@@ -14,7 +14,6 @@ categories:
 
 tags:
   - Personal
-  - Vietnamese
   - Social Manipulation
   - Social Control
 
