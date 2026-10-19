@@ -21,7 +21,7 @@ draft: false
 comments: true
 ---
 
-I'm hearing very strong evidence here that the Taiwanese are very proud of their ability to integrate foreigners into their country. I saw a great example of this where it was pretty obvious that Vietnamese are always fighting over the bill these days, with a Taiwanese overlord agreeingly remarking (to me personally!) that 'they have become Taiwanese by now'. 
+I'm hearing very strong evidence here that the Taiwanese are very proud of their ability to integrate foreigners into this island. I saw a great example of this where it was pretty obvious that Vietnamese are always fighting over the bill these days, with a Taiwanese overlord agreeingly remarking (to me personally!) that 'they have become Taiwanese by now'. 
 
 I don't want to have to do anything with anything, so don't drag me into this shit. 
 
