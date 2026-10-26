@@ -1,7 +1,7 @@
 ---
 title: "Volledig Van De Pot Gerukt"
-date: 2026-10-26T08:00:00+08:00
-lastmod: 2026-10-26T08:00:00+08:00
+date: 2026-10-26T08:10:00+08:00
+lastmod: 2026-10-26T08:10:00+08:00
 
 slug: "volledig-van-de-pot-gerukt"
 description: "Dutch for 'Completely Out Of Their Goddamn Minds'"
