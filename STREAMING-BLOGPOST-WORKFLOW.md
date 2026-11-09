@@ -231,6 +231,22 @@ routing, distribution architecture, platform plumbing, OBS internals, and
 similar implementation details for a separate technical post unless Ashwin
 explicitly asks to include them.
 
+### Sports Tracker route maps
+
+For any post featuring a Sports Tracker workout with a recorded route, link to
+the workout and include a static screenshot of the map panel from that same
+workout. Frame the recorded track with its start and finish markers, readable
+roads or place names, and Sports Tracker’s visible map attribution. Save the
+PNG in the Hugo post bundle as `route.png`. For multiple workouts, use a dated
+filename per workout and place each map in its corresponding section, alongside
+the workout link and before the video. Include descriptive alt text. If tracking
+started late or stopped early, say which portion the map covers.
+
+Open each screenshot before publishing and visually check the basemap and track.
+A tile provider’s “API key required” notice can itself be a valid PNG. After
+deployment, verify the post references each map and that its public image matches
+the visually checked screenshot.
+
 ## 8. Validate and publish
 
 Before publication:
