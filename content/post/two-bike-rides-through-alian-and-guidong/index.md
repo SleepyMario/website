@@ -24,6 +24,10 @@ Ashwin is in Vietnam now, and he's been doing some light weights in his room. A 
 
 Ashwin started Sports Tracker about 15 minutes late. It logged **27.43 km in 1:37:08**, averaging **17.0 km/h** on the part it caught. The GoPro recording runs about **2 hours 9 minutes**. Ashwin was pleased with how good the picture and sound came out. You might want to turn the volume up a little. [October 27 ride on Sports Tracker](https://www.sports-tracker.com/workout/ashwinsewambar/6ae05bff63c3483edaf0baa9)
 
+![October 27 · 27.43 km recorded. Tracking began about 15 minutes into the ride.](route-oct-27.png)
+
+*October 27 · 27.43 km recorded. Tracking began about 15 minutes into the ride.*
+
 {{< youtube 0XOvkzZzTnE >}}
 
 ## November 1 · Home from 龜洞
@@ -31,6 +35,10 @@ Ashwin started Sports Tracker about 15 minutes late. It logged **27.43 km in 1:3
 **大潭 → 阿蓮 → 龜洞 → 大潭**
 
 This time Ashwin headed home from 龜洞. A good bike ride, though the recording is only half-half. Sports Tracker logged **20.79 km in 1:13:07**, averaging **17.1 km/h**. The saved video runs about **1 hour 28 minutes**. [November 1 ride on Sports Tracker](https://www.sports-tracker.com/workout/ashwinsewambar/6ae70c83a2840a2f66031cef)
+
+![November 1 · 20.79 km recorded on the ride through 阿蓮 and 龜洞.](route-nov-01.png)
+
+*November 1 · 20.79 km recorded on the ride through 阿蓮 and 龜洞.*
 
 {{< youtube VrpzdFPd1gY >}}
 
