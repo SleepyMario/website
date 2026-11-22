@@ -27,4 +27,4 @@ There's a little post of my Vietnam trip incoming. I didn't finish it yet. There
 
 Happens.
 
-Oh, and you can visit https://www.kylinchat.com for and entertain yourselves a bit. 
+Oh, and you can visit https://www.kylinchat.com and entertain yourselves a bit. 
